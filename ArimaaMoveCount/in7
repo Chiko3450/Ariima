@@ -1,0 +1,19 @@
+w
+7w Ec2e
+ +-----------------+
+8|                 |
+7|                 |
+6|     x     x     |
+5|                 |
+4|                 |
+3|   R x     x     |
+2|   e   E e       |
+1|     e e         |
+ +-----------------+
+   a b c d e f g h
+
+2 choices for initial step
+30 total move combinations
+11 unique moves
+36.66% are unique
+

@@ -1,0 +1,19 @@
+b
+7b
+ +-----------------+
+8| r r r r r r r r |
+7| c d h m e h d c |
+6|                 |
+5|                 |
+4|                 |
+3|                 |
+2|                 |
+1|                 |
+ +-----------------+
+   a b c d e f g h
+
+8 choices initial step
+23886 total move combinations
+3353 unique moves
+14.03% are unique
+
